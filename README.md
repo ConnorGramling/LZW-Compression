@@ -1,12 +1,3 @@
-# CS 1501 – Algorithm Implementation – Assignment #3
-
-Due: Friday March 31st @ 11:59pm on Gradescope
-
-Late submission deadline: Sunday April 2nd @11:59pm with 10% penalty per late day
-
-You should submit the Java files `DLBCodeBook.java`, `ArrayCodeBook`, and `LZW.java` to GradeScope (the link is on Canvas). You must also submit a writeup named `a3.md` and an Assignment Information Sheet `InfoSheet.md` as described below.
-
-
 ## OVERVIEW
  
 **Purpose:** The purpose of this assignment is to fully understand the LZW compression algorithm, its performance and its implementation. 
