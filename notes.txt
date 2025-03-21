@@ -1,0 +1,8 @@
+Compression Code Book is a DLB
+Expansion Code Book is an array
+    beacause expansion is one step ahead, when bit++, codeword
+compress TestFiles\all.tar
+compress -d TestFiles.......more \all.tar????
+TestFiles
+
+TODO:
